@@ -37,7 +37,7 @@ export function AttributesCarousel({ attributes, headline }: { attributes: Attri
   return (
     <Carousel setApi={setApi} opts={{ align: 'center', loop: true }} aria-label="Atributos de la marca">
       <div className="border-b border-primary/20 pb-8">
-        <h2 className="display-title text-center text-6xl md:text-8xl">{headline}</h2>
+        <h2 className="display-title text-center text-6xl md:text-8xl lg:whitespace-nowrap lg:text-[clamp(4rem,6.4vw,6rem)]">{headline}</h2>
       </div>
 
       <CarouselContent className="-ml-3 items-center pb-6 pt-8 sm:-ml-5 md:-ml-6 md:py-14">
