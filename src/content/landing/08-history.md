@@ -1,8 +1,8 @@
 ---
 order: 8
 eyebrow: "Trayectoria"
-headline: "20+ años conectando empresas"
-subheadline: "G&S nació como una empresa familiar fundada por Gentil y Santiago, padre e hijo. Su historia se construye ruta a ruta."
+headline: "Dos generaciones, una misma ruta"
+subheadline: "Porque la experiencia no vale solo por los años que acumula, vale por lo que es capaz de construir con ellos."
 ---
 
 Beat 8 — la historia. Los hitos y la cita de los fundadores viven en
