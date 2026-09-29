@@ -1,9 +1,9 @@
 ---
 order: 9
 headline: |
-  Movemos tu carga.
-  Cuidamos tu operación.
-subheadline: "Escríbenos y te respondemos directo, sin intermediarios."
+  Seguimos moviendo aquello
+  en lo que creemos 
+
 cta_label: "Escríbenos por WhatsApp"
 ---
 
